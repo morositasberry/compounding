@@ -9,7 +9,7 @@ A Claude Code skill that scans your repo, figures out what kind of builder you a
 ## Install
 
 ```bash
-curl -o ~/.claude/commands/compounding.md https://raw.githubusercontent.com/dnros3/compounding/main/compounding.md
+curl -o ~/.claude/commands/compounding.md https://raw.githubusercontent.com/morositasberry/compounding/main/compounding.md
 ```
 
 Or: download `compounding.md` and drop it in `.claude/commands/`.
